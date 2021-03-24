@@ -8,4 +8,4 @@
 - Creating a DAO on Ropsten-Testnet
   - install metamask.io
   - get some Ropsten-Test-ETH on https://faucet.ropsten.be/
-  - create a DAO with Aragon v1 https://client.aragon.org/#/
+  - create a DAO with Aragon v1 https://client.aragon.org/#/ https://client.aragon.org/#/
